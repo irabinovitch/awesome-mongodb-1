@@ -56,6 +56,13 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 ---
 ## Tutorial
 * [MongoDB University](https://university.mongodb.com/) - online courses
+* [Mongo Shell Quick Start](http://docs.mongodb.org/getting-started/shell/) - official guide
+* [MongoDB Manual Tutorials](http://docs.mongodb.org/manual/tutorial/) - official manual tutorials
+* [TutorialsPoint MongoDB Tutorial](http://www.tutorialspoint.com/mongodb/) - online courses
+* [MongoDB  Java Drivers Tutorial](http://www.mkyong.com/tutorials/java-mongodb-tutorials) - 
+* [Perform Two Phase Commits — MongoDB…](http://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/)
+
+
 
 ---
 ## Peroformance Monitoring
@@ -96,6 +103,8 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 # Resources 
 ---
 ## Useful websites and articles
+* [Stackoverflow MongoDB Tag](http://stackoverflow.com/questions/tagged/mongodb) 
+
 
 
 ---
