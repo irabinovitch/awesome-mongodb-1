@@ -30,13 +30,15 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 * [MongoDB Manual](http://docs.mongodb.org/manual/) - Official Manual
 * [FAQ](http://docs.mongodb.org/manual/faq/) - mongodb.org
 * [FAQ](http://www.mongodb.com/faq) - mongodb.com
+* [MongoDB white-papers](http://www.mongodb.com/white-papers) - mongodb.com
+
 
 ---
 ## Community
 * [MongoDB Officiel Blog](http://blog.mongodb.org/)
 * [MongoDB Official Twitter](https://twitter.com/MongoDB)
 * [Facebook Official Facebook](https://www.facebook.com/mongodb)
-
+* [mongodb-user mailing list](https://groups.google.com/forum/#!forum/mongodb-user) - The mongodb-user mailing list
 
 ---
 ## Drivers
@@ -72,8 +74,8 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 * [MongoDB Manual Tutorials](http://docs.mongodb.org/manual/tutorial/) - official manual tutorials
 * [TutorialsPoint MongoDB Tutorial](http://www.tutorialspoint.com/mongodb/) - online courses
 * [MongoDB  Java Drivers Tutorial](http://www.mkyong.com/tutorials/java-mongodb-tutorials) - 
-* [Perform Two Phase Commits — MongoDB…](http://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/)
-
+* [Perform Two Phase Commits MongoDB…](http://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/)
+* [MongoDB YouTube Channel](https://www.youtube.com/user/MongoDB/playlists)
 
 
 ---
@@ -116,7 +118,7 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 ---
 ## Useful websites and articles
 * [Stackoverflow MongoDB Tag](http://stackoverflow.com/questions/tagged/mongodb) 
-
+* [MongoDB Wikipedia Article](http://en.wikipedia.org/wiki/MongoDB) 
 
 
 ---
@@ -125,6 +127,7 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 
 ---
 ## Books
+* [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) 
 
 
 ---
