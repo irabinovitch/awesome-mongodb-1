@@ -6,6 +6,7 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 	- [MongoDB](#mongodb)
 	- [Community](#community)
 	- [Drivers](#drivers)
+	- [Installation](#installation)
 	- [Tutorial](#tutorial)
 	- [Peroformance Monitoring](#peroformance-monitoring)
 	- [Use Cases](#use-cases)
@@ -52,6 +53,17 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 * [MongoDB Scala Driver](http://docs.mongodb.org/ecosystem/drivers/scala/)
 * [MongoDB Go Driver](http://docs.mongodb.org/ecosystem/drivers/go/)
 * [MongoDB Erlang Driver](http://docs.mongodb.org/ecosystem/drivers/erlang/)
+
+---
+## Installation
+* [Install MongoDB MongoDB Manuel](http://docs.mongodb.org/manual/installation/)
+* [Install MongoDB on Windows](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)
+* [Install MongoDB on Ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/) 
+* [Install MongoDB on Linux](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-linux/) 
+* [Install MongoDB on OS X](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) 
+* [Install MongoDB on Other UNIX Bases Systems](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-red-hat/) 
+
+
 
 ---
 ## Tutorial
