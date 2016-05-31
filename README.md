@@ -130,8 +130,9 @@ A curated list of amazingly awesome MongoDB and MongoDB ecosystem resources. Ins
 # Resources 
 ---
 ## Useful websites and articles
-* [Stackoverflow MongoDB Tag](http://stackoverflow.com/questions/tagged/mongodb) 
-* [MongoDB Wikipedia Article](http://en.wikipedia.org/wiki/MongoDB) 
+* [Stackoverflow MongoDB Tag](http://stackoverflow.com/questions/tagged/mongodb)
+* [MongoDB Wikipedia Article](http://en.wikipedia.org/wiki/MongoDB)
+* [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 
 ---
